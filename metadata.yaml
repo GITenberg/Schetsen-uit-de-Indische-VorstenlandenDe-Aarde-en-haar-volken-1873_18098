@@ -1,0 +1,29 @@
+_repo: Schetsen-uit-de-Indische-VorstenlandenDe-Aarde-en-haar-volken-1873_18098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rousselet, Louis
+    birthdate: 1845
+    deathdate: 1929
+    gutenberg_agent_id: '7806'
+    url: http://www.gutenberg.org/2009/agents/7806
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18098'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+title: 'Schetsen uit de Indische Vorstenlanden
+
+  De Aarde en haar volken, 1873'
+url: http://www.gutenberg.org/ebooks/18098
